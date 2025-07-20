@@ -3,8 +3,8 @@
 ## Overview
 This repository contains the code and data used to reproduce the figures in the manuscript **“A Numerical Model for Seagrass‑Herbivore Interactions and the Formation of Reef Halos”** by Eva Llabrés, Anne A. Innes‑Gold, Bartholomew DiFiore, Tomàs Sintes, and Elizabeth Madin.
 
-## Folder Structure
-Each folder corresponds to a specific figure in the manuscript and includes the data and numerical simulations required for its reproduction.
+## Folder Structure  
+Download **`code_halo_model.zip`** and extract it. ​The resulting directory will contain a separate folder for each figure in the manuscript, complete with the model simulations, data and visualization scripts. 
 
 ## Numerical Simulations
 The seagrass–herbivore interaction simulations are implemented in **Fortran 90** for computational efficiency.  
